@@ -65,34 +65,6 @@ I'm a full-stack developer and agency for hire, building end-to-end web, mobile,
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </p>
 
-## 📌 Featured Work
-
-| Project | Stack | Result |
-|---|---|---|
-| Local Marketplace App | React Native, Node.js | 12k downloads in first month |
-| SaaS Analytics Dashboard | Next.js, PostgreSQL | 68% faster report load, MVP in 6 weeks |
-| Fintech Onboarding Flow | React, Node.js | 41% reduction in KYC drop-off |
-
-See the full case studies at **[vikramtejani.com/work](https://vikramtejani.com/work)**
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikramkumartejani&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vikramkumartejani top languages" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vikramkumartejani&show_icons=true&locale=en&theme=tokyonight" alt="vikramkumartejani stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikramkumartejani&theme=tokyonight" alt="vikramkumartejani streak" />
-</p>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vikramkumartejani&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-
 ### 🤝 Let's build something
 
 **[vikramtejani.com](https://vikramtejani.com)** · [Start a project →](https://vikramtejani.com/contact)
