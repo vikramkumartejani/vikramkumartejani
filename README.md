@@ -11,7 +11,9 @@
 
 </div>
 
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Next.js+%2B+React+Native+%2B+Node.js;200%2B+Projects+Shipped+%7C+4.9%E2%98%85+Client+Rating;Building+at+vikramtejani.com" alt="Typing SVG" />
+</p>
 
 ## 🧑‍💻 About Me
 
