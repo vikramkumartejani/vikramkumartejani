@@ -17,14 +17,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a full-stack developer and agency for hire, building end-to-end web, mobile, and API products — from Next.js marketing sites and SaaS dashboards to React Native apps and Node.js backends.
+I'm a full-stack developer and agency for hire, building end-to-end web, mobile, and API products - from Next.js marketing sites and SaaS dashboards to React Native apps and Node.js backends.
 
 - 🚀 **200+ projects shipped** · **4.9★ client rating** · **4+ years building**
 - 🏗️ Currently building end-to-end products via **[vikramtejani.com](https://vikramtejani.com)**
 - 🌱 Currently deepening my **React Native** skills
 - 💬 Ask me about **Next.js, React, TypeScript, Node.js, React Native**
-- 📫 Reach me at **vikramkumar8t8@gmail.com** — I reply within 1 hour
-- ⚡ Fun fact: I ship with a clear process — Planning → Design → Development → Testing → Launch → Support
+- 📫 Reach me at **vikramkumar8t8@gmail.com** - I reply within 1 hour
+- ⚡ Fun fact: I ship with a clear process - Planning → Design → Development → Testing → Launch → Support
 
 <br clear="right"/>
 
